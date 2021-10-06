@@ -1,0 +1,21 @@
+
+.header01{
+    font-size: 20pt;
+    color: azure;
+    text-align: center;
+
+}
+
+.topnav a{
+    float: left;
+    font-size: 20pt;
+    color:azure;
+
+}
+
+body {
+  background-image: url('munimg.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
