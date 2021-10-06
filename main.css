@@ -26,7 +26,7 @@
 }
 
 body {
-  background-image: url('http://www.rcimun.org/uploads/2/4/1/3/24139345/background-images/567302681.jpg');
+  background-image: url("rcimunbackground.jpeg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
