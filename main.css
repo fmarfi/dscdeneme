@@ -5,16 +5,28 @@
     text-align: center;
 
 }
+.topnav{
+  overflow: hidden;
 
+}
 .topnav a{
     float: left;
     font-size: 20pt;
-    color:azure;
+    color: white;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.topnav a:hover {
+  
+  color: wheat;
 
 }
 
 body {
-  background-image: url('munimg.jpeg');
+  background-image: url('http://www.rcimun.org/uploads/2/4/1/3/24139345/background-images/567302681.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
